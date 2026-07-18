@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# Jupyter / Colab
+*.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: large generated data
+# Uncomment if you decide NOT to share your dataset publicly
+data/sft_dataset_bc.jsonl
