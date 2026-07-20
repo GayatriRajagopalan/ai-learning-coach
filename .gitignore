@@ -16,6 +16,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# video files
+*.mp4
+
 # Optional: large generated data
 # Uncomment if you decide NOT to share your dataset publicly
 data/sft_dataset_bc.jsonl
